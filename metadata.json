@@ -1,0 +1,6 @@
+{
+    "name": "Clean Up", 
+    "uuid": "clean-up@pauloup.gmail.com", 
+    "description": "Delete files to recover some disk space", 
+    "shell-version": ["3.24"]
+}
